@@ -1,0 +1,44 @@
+location,experience,job_count
+Bangalore,"First Level mngt ",65
+Bangalore,"Senior Level mngt",61
+Bangalore,"Mid Level mngt ",30
+Bangalore,"Entry level",16
+"Work From Home","Senior Level mngt",13
+Hyderabad,"First Level mngt ",11
+"Work From Home","First Level mngt ",11
+Gurgaon,"First Level mngt ",10
+Hyderabad,"Senior Level mngt",10
+Gurgaon,"Mid Level mngt ",9
+"Work From Home","Mid Level mngt ",9
+Gurgaon,"Senior Level mngt",9
+Pune,"First Level mngt ",8
+Mumbai,"Mid Level mngt ",7
+Mumbai,"Senior Level mngt",7
+Hyderabad,"Entry level",6
+Mumbai,"First Level mngt ",5
+Pune,"Senior Level mngt",5
+Gurgaon,"Entry level",4
+Mumbai,"Entry level",4
+Noida,"First Level mngt ",4
+Chennai,"Mid Level mngt ",4
+Ahmedabad,"Senior Level mngt",4
+Noida,"Entry level",3
+Delhi,"First Level mngt ",3
+Chennai,"First Level mngt ",3
+Noida,"Mid Level mngt ",3
+Ahmedabad,"Mid Level mngt ",3
+Bangalore,"Senior ",3
+Noida,"Senior Level mngt",3
+Hyderabad,"Mid Level mngt ",2
+"Work From Home","Senior ",2
+Mumbai,"Senior ",2
+Gurgaon,"Senior ",2
+Delhi,"Senior ",2
+Pune,"Entry level",1
+"Work From Home","Entry level",1
+Ahmedabad,"Entry level",1
+Pune,"Mid Level mngt ",1
+Delhi,"Mid Level mngt ",1
+Chennai,"Senior ",1
+Hyderabad,"Senior ",1
+Delhi,"Senior Level mngt",1

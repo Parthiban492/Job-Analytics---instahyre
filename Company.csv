@@ -1,0 +1,246 @@
+company_id,name,estab_year,employees_count
+501,314e Corporation,2004,570
+503,4R Recycling,2012,30
+504,56 Secure,2020,125
+505,7-Eleven,1927,1000
+506,7-Eleven Global Solution Center,2020,350
+507,91Mobiles,2010,125
+508,Aavenir,2019,30
+509,Accenture,1989,1000
+510,Acko,2017,570
+511,Adagrad AI,2018,30
+513,Adobe,1982,1000
+515,Agivant Technologies,2023,30
+517,Airtel Africa,2010,1000
+519,Alchemy Techsol India,2014,1000
+520,AlgoShack,2018,350
+521,Allen Career Institute,1988,1000
+522,AllSecure,2021,30
+523,Alt Mobility,2020,5
+525,Altimetrik,2012,1000
+526,Alyke,2021,30
+527,Amagi Corporation,2008,350
+529,Amazon,1994,1000
+530,Amazon Ads,2010,1000
+531,Amazon Devices,1994,1000
+532,AmberStudent,2016,125
+534,Angel One,1987,1000
+535,ANSR,2003,125
+536,Anudip Foundation,2007,350
+537,Apolis,1996,350
+539,AppIt Simple Infotek,2013,125
+541,Argenbright Group,1979,1000
+543,Asentech,2007,125
+544,Askme Technologies,2018,30
+546,AST SpaceMobile,2017,125
+547,AstraZeneca,1999,1000
+548,Atlan,2019,125
+550,Attackfence,2018,30
+552,AulaCube Technologies,2023,5
+553,Availity,2001,570
+555,Avis Budget Group,1946,1000
+556,Axi,2007,125
+558,AXS Solutions,2012,30
+560,Bajaj Finserv,2007,1000
+561,Benesse India,2022,1000
+563,BillDesk,2000,570
+565,Bizongo,2014,350
+566,Blenheim Chalcot,1998,1000
+567,Blu Smart,2019,30
+569,BNP Paribas,1900,1000
+570,Bodycraft Salon Spa and Clinic,1997,570
+572,Branch International,2015,125
+574,Bristol Myers Squibb,1887,1000
+575,BYJU'S,2011,1000
+577,Calibehr,2006,1000
+579,CarDekho,2008,1000
+581,Carnera Technologies,2018,125
+582,Cashfree,2015,350
+584,Celcius Logistics Solutions,2020,30
+585,Celsior Technologies,1996,1000
+587,Chrp Technologies,2020,30
+589,Citadel Systems,2022,5
+590,Cleartrip,2006,570
+591,CommerceIQ,2012,350
+592,CommScope,1976,1000
+594,Cornerstone OnDemand,1999,1000
+595,CreditVidya,2013,125
+597,Custiv,2019,5
+599,Data Axle,1972,1000
+601,DCS Plus,2002,125
+602,Delhivery,2011,1000
+603,Delta Air Lines,1928,1000
+605,DeNovo Systems,2014,30
+607,Deutsche Telekom Digital Labs,2018,1000
+608,Devtron Labs,2019,30
+609,Diageo,1997,1000
+611,Digit88 Technologies,2014,125
+612,Dish Network Technologies,2005,125
+614,ED and F Man,1783,1000
+616,eKincare,2015,350
+617,Elchemy,2021,5
+619,Elevate K-12,2015,350
+620,Eli Lilly,1876,1000
+621,Elucidata,2015,125
+622,Emint,2022,5
+624,emoticup,2015,30
+625,Entiovi Technologies,2017,30
+627,EPAM Systems,1993,1000
+628,eProductivity Software,2021,1000
+630,Esquire Express,1991,125
+632,Expand My Business,2018,350
+634,Fairdeal.Market,2022,30
+635,Fairmatic,2019,125
+636,FarMart,2015,1000
+637,FedEx,1973,1000
+639,FinBox,2016,125
+641,FleetStack,2022,30
+642,Flipkart,2007,1000
+644,Future Generali India Insurance,2000,1000
+645,Gameskraft,2017,350
+646,Gammastack,2012,125
+647,Gan.ai,2021,30
+648,GaneshaSpeaks,2003,125
+650,GEVME,2015,125
+651,Global Logics,2014,5
+652,GlobalLogic,2000,1000
+653,goGlocal,2021,30
+655,Goldcast,2020,5
+656,Graygraph Technologies,2015,570
+658,Grow Simplee,2020,125
+660,Groww,2017,570
+662,Gyansys,2005,570
+664,HCL Technologies,1976,1000
+665,Head Digital Works,2005,350
+667,HiLabs,2014,30
+669,HomeCapital,2017,30
+670,Hopstack,2018,30
+671,Hotstar,2015,570
+672,HTC Global Services,1990,1000
+674,Hyper Thread Solutions,2013,125
+675,Hy-Vee,1930,1000
+677,Immedis,1996,350
+679,ImSafeNow,2017,5
+681,IndiaLends,2014,350
+682,IndiaMART InterMESH,1999,1000
+684,Indium Finance,2019,5
+686,Infinite Computer Solutions,1999,1000
+687,Infosys,1981,1000
+689,InSemi Technology,2013,125
+690,insightsoftware,2018,1000
+691,Inspire Brands,2018,1000
+692,Inspirit,2017,30
+693,Intellect Design Arena,2014,1000
+695,interface.ai,2019,125
+697,Intract,2020,5
+699,JiyoFullest,2017,5
+700,JMR Infotech,2007,350
+701,Josh Software,2007,125
+702,Jupiter,2019,125
+704,Kenko Health,2019,125
+706,Kickdrum,2012,30
+708,Klimb.io,2015,30
+710,KPIT,1990,1000
+711,Kredily,2017,30
+713,Kripya Solutions,2006,1000
+714,Krones,1951,1000
+715,Kutumb,2020,125
+716,Kyndryl,2021,1000
+717,L&T Technology Services,2009,1000
+718,Lagozon Technologies,2012,125
+720,Leegality,2016,125
+721,Lendingkart,2014,350
+722,Lenskart.com,2008,1000
+724,Licious,2015,1000
+725,Listed,2021,5
+726,LogiNext,2014,125
+727,Logward,2018,30
+728,Loop Kitchen,2022,5
+729,Lululemon,1998,1000
+730,Lumen Technologies,1968,1000
+731,Luminous Power Technologies,1988,1000
+732,Lumiq.ai,2018,125
+733,Maersk,1904,1000
+734,MakeMyTrip,2000,1000
+735,Mantys,2022,5
+736,Mareana,2015,125
+737,Masan Group,1996,30
+739,MediBuddy,2013,1000
+741,Mensa Brands,2017,30
+742,MetaMap,2017,350
+744,Mintoak Innovations,2017,30
+745,Mirius Interni,2016,125
+746,Moback,2011,125
+747,MOBtexting,2012,125
+748,ModMed,2010,1000
+749,Money View,2014,350
+750,Monotype,2012,570
+751,Moolya Software Testing,2010,125
+753,Mphasis,1998,1000
+754,MUFG,1900,1000
+755,Music Tribe,1989,1000
+756,muvin,2020,30
+758,Nab,1981,1000
+759,Navtech,2013,125
+761,NeoSOFT Technologies,1996,1000
+762,NeST Digital,1998,1000
+764,NextGen Telesolutions,2009,30
+765,NexTurn,2021,125
+766,Nilenso Software,2013,30
+768,Novo,2016,125
+770,NxtWave,2020,1000
+771,Ola,2011,1000
+773,Oneture Technologies,2016,30
+775,Open Financial Technologies,2017,350
+776,OpenGrowth,2018,5
+778,ORUphones,2022,30
+779,Oyela,2021,5
+781,Patch Infotech,2016,125
+782,Paypal,1998,1000
+783,Paytm,2000,1000
+784,PayU,2011,570
+786,PhonePe,2015,1000
+787,PhysicsWallah,2014,1000
+789,Plivo,2011,125
+791,Plum,2019,30
+792,Porter,2014,570
+793,Power Gummies,2018,30
+795,Prescience Decision Solutions,2017,125
+797,PriceLabs,2014,30
+799,Propelld,2017,5
+801,Proxgy,2020,30
+802,Pure Storage,2009,1000
+804,QuillBot,2017,125
+805,Quince,2018,125
+807,Qvantel,2000,1000
+809,Raising Superstars,2020,30
+810,Rajasthan Royals,2008,30
+811,Rakuten,1997,1000
+813,Recrosoft Technologies,2012,350
+814,Recykal,2015,30
+816,Redington India,1993,1000
+818,Refactor Academy,2022,30
+819,Reflections Info Systems,1999,1000
+820,Reliance Group,1973,1000
+822,ResMed,1989,1000
+823,Rezo.ai,2017,30
+825,RingCentral,2003,1000
+826,Ripplr,2019,125
+828,Rocketlane,2020,30
+830,Rupeek,2015,1000
+832,SaaS Labs,2016,350
+834,Sanas AI,2020,30
+836,Scaler Academy,2019,125
+837,Scope Retail Systems,2017,5
+838,Sensibull,2017,30
+840,ShopUp,2017,125
+841,Siemens,1900,1000
+843,Skydo,2022,5
+845,SmartCoin,2016,125
+847,Softura,1996,350
+849,Solvei8,2023,125
+851,Sourcy,2021,5
+852,Speech2Text,2005,30
+853,Sportsbuzz,2022,125
+855,Sprinklr,2009,1000
+857,SquadStack,2014,125
