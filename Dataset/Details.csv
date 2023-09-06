@@ -1,0 +1,352 @@
+details_id,Involvement,skills,hr_name
+5015011,Full - Time,"CI - CD,Linux",Narasimhan
+5035031,Full - Time,"Quality Assurance,Environment Health and Safety (EHS)",Vivek
+5045041,Full - Time,"CSS,HTML,JavaScript",Garima Joshi
+5055051,Full - Time,"Automation Testing,UI Testing,Java",Shivkumar Gurram
+5055053,Full - Time,"Java,HTML,Spring",Priyanka Mahindrakar
+5055055,Full - Time,"Azure,SSIS,SSRS",Yogesh Waran
+5065062,Full - Time,"Data Analysis,SQL,Python",Vijayakrishna Tarikonda
+5075071,Full - Time,"Marketing,",Monika Yadav
+5085082,Full - Time,"ServiceNow,Service Catalog,ITSM",Samiksha M
+5095092,Full - Time,"Business Development,Data Analysis",Ravi Kumar
+5105102,Full - Time,"Compensation Management,Employee Benefits",Vijil V
+5115112,Full - Time,"Python,Computer Vision,OpenCV",Sajani Sodadasi
+5135131,Full - Time,Java,Vinay Kn
+5155151,Full - Time,"Angular,Java,Cloud Computing",Preeti Das
+5155153,Part - Time,AWS,Kavya Shegde
+5155155,Part - Time,"Google Cloud,Big Data",Debashish Bhattacharya
+5155157,Full - Time,"Angular,ASP.NET,JavaScript",Prakash Rc
+5175171,Full - Time,"JavaScript,React.js,HTML",Bhavik Shah
+5195191,Full - Time,"Java,React.js,Spring Boot",Ashmita Kumari
+5205201,Full - Time,"CI - CD,Linux,AWS",Jiby Thomas
+5215212,Full - Time,"SQL,Tableau,Python",Vijay Sharma
+5225222,Part - Time,"Automation Testing,Java,Selenium",Devi Reddy
+5235231,Part - Time,"Sales,Business Development,Corporate Sales",Ratna Kumar S
+5255251,Full - Time,"Java,AWS,Microservices",Tanishka Tanu Arora
+5255253,Full - Time,"Python,SQL,Airflow",Kapil K
+5255255,Full - Time,"Java,React.js,Spring Boot",Vaibhav Ghai
+5265261,Full - Time,"Build Tools,CI - CD,Linux",Ramya Eradi
+5275272,Full - Time,"Application Security,Cloud Security,Information Security",Akriti
+5295291,Full - Time,"React.js,JavaScript,Express.js",Shalini Lal
+5305302,Full - Time,"Computer Vision,Machine Learning,NLP",Arun Kumar
+5315312,Full - Time,"C,C++,Golang",Ravi Kumar
+5325321,Full - Time,"Product Management,Consumer Software,Strategic Planning",Priyanka Poonia
+5345341,Full - Time,Manual Testing,Garima Joshi
+5355352,Full - Time,"Java,React.js,AWS",Nidhuraj Prasannarajan
+5365361,Full - Time,"IT Recruitment,Leadership Recruitment,Talent Management",Daniel Shaw
+5375372,Full - Time,"Java,Angular,Spring",Anand Soni
+5395391,Full - Time,Brand Management,Ashmita Kumari
+5415411,Full - Time,"US Recruitment,US Healthcare,Non IT Recruitment",Alekhya Chowdary
+5435431,Full - Time,"Automation Testing,Selenium,SDET",Sundar Kanth
+5445441,Full - Time,"Node.js,Express.js,JavaScript",Suhasini Ramakrishnan
+5445443,Full - Time,"JavaScript,Node.js,Mocha",Jiby Thomas
+5465461,Full - Time,"C,C++,Embedded Systems",Rishabharaja S
+5475471,Full - Time,"SDTM,Clinical SAS Programming,SAS Programming",Priyanka Poonia
+5475473,Full - Time,"Java,Node.js,Angular",Rituraj Rai
+5485481,Full - Time,"CI - CD,Linux,Azure",Vinibha S
+5505501,Full - Time,"Presales,Project Management",Kavya Shegde
+5525521,Part - Time,"Content Marketing,Content Writing",Bhawna Suri
+5535532,Full - Time,".NET,Microservices,React.js",Chaithra G
+5535534,Full - Time,".NET,Microservices,Angular",Sweety Nair
+5535536,Full - Time,"Java,Microservices,React.js",Arun Kumar
+5555551,Full - Time,"Java,Kafka,AWS",Garima Maheshwari
+5555553,Full - Time,"ETL,Java,AWS",Eram Qudsia
+5565561,Full - Time,"Business Intelligence,Tableau,SQL",Vishakha Chaudhary
+5585581,Full - Time,"Brand Management,Business Development,Category Management",Pooja N
+5605601,Full - Time,"Node.js,Angular,Java",Nidhuraj Prasannarajan
+5615611,Full - Time,CBSE,Priyanka Mahindrakar
+5615613,Full - Time,Sales,Nitin Verma
+5615615,Full - Time,"CBSE,Sales,Business Development",Syed Faizan
+5615617,Full - Time,Sales,Nitin Gawli
+5635631,Full - Time,"Java,Architecture,Algorithms",Priya Bagla
+5655651,Full - Time,Product Management,Nidhi
+5665662,Full - Time,Microsoft Excel,Atharv Ojha
+5665664,Full - Time,"Spring,Hibernate,AWS",Chaitali Bhattacharya
+5665666,Full - Time,"Java,Golang,Spring",Garima Kapoor Tanwar
+5675672,Full - Time,"Node.js,Angular",Poorti Punj
+5695691,Full - Time,"Campus Recruitment,IT Recruitment,Non IT Recruitment",Aspire Proptech
+5705702,Full - Time,Customer Service,Shivkumar Gurram
+5725721,Full - Time,"Ruby,Python,Golang",Rovena Dsouza
+5745741,Full - Time,"SAP ABAP,SAP Fiori",Ratna Kumar S
+5745743,Full - Time,"Agile,Project Management,Jira",Manjari Rastogi
+5755752,Full - Time,"Business Development,Corporate Sales,Direct Sales",Naveen Taalanki
+5775771,Full - Time,"Operations Management,Process Improvement",Imran Nazir
+5795791,Full - Time,"Microsoft Excel,Power BI,Tableau",Consult Bae
+5815811,Full - Time,"Automation Testing,Manual Testing,SDET",Kanchan Bhandari
+5815813,Full - Time,"Automation Testing,CI - CD,Java",Shivkumar Gurram
+5825822,Full - Time,"Microservices,Java,Architecture",Capt Kansal
+5845841,Full - Time,"Java,Spring Boot,Angular",Kavya Shegde
+5855851,Full - Time,"CSS,HTML,JavaScript",Saud Zafar
+5875871,Full - Time,"AWS,Azure,Django",Nikita Rai
+5895891,Part - Time,"Java,Agile,Waterfalls",Arun Kumar
+5905902,Full - Time,"Java,Data Structures,Algorithms",Pooja N
+5905904,Full - Time,Java,Paramananda Chabungbam
+5905906,Full - Time,"Java,Spring Boot,Microservices",Venkatesan Srinivasan
+5905908,Full - Time,"AWS,Data Structures,Java",Rabi Agrawal
+59059010,Full - Time,"Java,Data Structures,Algorithms",Pooja N
+59059012,Full - Time,"Ruby,Ruby on Rails,Microservices",Pooja N
+59059014,Full - Time,"Java,Spring,Microservices",Rajeswari K
+59059016,Full - Time,"Java,Data Structures,Algorithms",Srishti Garg
+59059018,Full - Time,"Java,Data Structures,Algorithms",Ratna Kumar S
+59059020,Full - Time,"Java,Data Structures,Algorithms",Roshan Muniraj
+59059022,Full - Time,"Android,Kotlin,Java",Roshan Nair
+59059024,Full - Time,"Java,Spring,Data Structures",Garima Maheshwari
+5915911,Full - Time,"Python,Kubernetes,AWS",Shipra Rai
+5925921,Full - Time,"C++,Embedded Linux,STL",Kanta Nandy
+5945941,Full - Time,".NET,ASP.NET,C#",Palak Bhatnagar
+5955951,Full - Time,"Data Analysis,Python,SQL",Yukta Harit
+5955953,Full - Time,"HTML,JavaScript,React.js",Sanketh Ramkrishnamurthy
+5975971,Full - Time,"Sales,Business Development,Telecalling",Priyal Gupta
+5995991,Full - Time,"Oracle Database,PostgreSQL,Unix",Girish
+6016011,Full - Time,"2D Animation,3D Animation,Graphic Design",Vinod Ch
+6026021,Full - Time,"Angular,JavaScript,HTML",Jiby Thomas
+6026023,Full - Time,"Docker,Kubernetes,DevOps",Shikha Soni
+6036031,Full - Time,"Machine Learning,NLP,Java",Rituraj Rai
+6056051,Full - Time,"iOS,Objective-C,Swift",Surbhi Chahar
+6056053,Full - Time,"Java,Microservices,Spring Boot",Rovena Dsouza
+6076071,Full - Time,"Java,Spring Boot,Microservices",Rajni Mishra
+6076073,Full - Time,"Swift,iOS,Cocoa",Aspire Proptech
+6086082,Full - Time,"React.js,TypeScript,",Jiby Thomas
+6096091,Full - Time,"Application Security,Cloud Security",Priyal Gupta
+6116111,Full - Time,"Java,Selenium,Cypress",Pooja N
+6126121,Full - Time,"ServiceNow,ITSM,CSM",Neha Bhise
+6146141,Full - Time,"Finance,IT Support,Business Process Management (BPM)",Priyanka Mahindrakar
+6166161,Full - Time,Product Management,Vivek Singh
+6176172,Full - Time,"JavaScript,Python,Django",Ravindra Rathod
+6196191,Full - Time,"Java,Python,Golang",Aditi Pradhan
+6206201,Full - Time,"AWS,Python,ETL",Aditi Pradhan
+6216211,Full - Time,"Content Marketing,Content Writing",Nidhi
+6226222,Part - Time,"Automation Testing,Selenium,Appium",Monika Save
+6226224,Full - Time,"HTML,CSS,JavaScript",Roshan Muniraj
+6246241,Full - Time,"Finance,Taxation,Financial Analysis",Mahesh Hyam
+6256251,Full - Time,"Java,Kotlin,Android",Arun Singh
+6276271,Full - Time,"Salesforce,Apex,Lightning",Garima Maheshwari
+6286281,Full - Time,".NET,JavaScript,Angular",Deep Ambike
+6306301,Full - Time,"Logistics Management,Operations Management",Syed Husain
+6326321,Full - Time,"Business Development,International Sales,Sales",Reenaa S
+6346341,Full - Time,"React.js,Node.js,Python",Thangaraj Vinayagmoorthy
+6356352,Full - Time,"DevOps,CI - CD,AWS",Ravitha Devasenapathy
+6366361,Full - Time,"Machine Learning,Scikit-learn,Computer Vision",Roshan Muniraj
+6366363,Full - Time,"Machine Learning,Python,TensorFlow",Anil Tomar
+6376372,Full - Time,"Java,Spring Boot,Microservices",Garima Maheshwari
+6376374,Full - Time,Java,Jaya Pandey
+6376376,Full - Time,"Java,Microservices,Azure",Preeti Msw
+6376378,Full - Time,"API Testing,Angular,Java",Rekha Nair
+63763710,Full - Time,"Microservices,Angular,Java",Rinki Goel
+63763712,Full - Time,Java,Ajitha D
+63763714,Full - Time,"Scrum,Agile",Remi Vaz
+63763716,Full - Time,"TIBCO Administrator,TIBCO BusinessConnect",Manjari Rastogi
+6396391,Full - Time,"Node.js,React.js",Ravi Devara
+6416411,Part - Time,"Customer Interaction,Customer Relationship,Customer Service",Disha Bali
+6426422,Full - Time,"CSS,HTML,JavaScript",Divya Dang
+6446441,Full - Time,"Insurance Broking,Sales",Vineela Gopalajosyula
+6456452,Full - Time,"React Native,React.js,JavaScript",Priyal Gupta
+6456454,Full - Time,"DevOps,Kubernetes,Terraform",Ratna Kumar S
+6456456,Full - Time,"Kubernetes,Terraform,AWS",Pritha Das
+6466461,Full - Time,"Business Development,Sales,Key Account Management",Simran Nair
+6476472,Full - Time,"Django,Python,Docker",Afreen Naz
+6476474,Full - Time,"Python,Algorithms,Data Structures",Hashtag Infosystem
+6486482,Full - Time,"WooCommerce,CSS,HTML",Kiran Singh
+6486484,Full - Time,"Customer Relationship,Customer Service,Customer Interaction",Pasha Amjad
+6486486,Full - Time,"Photoshop,Illustrator,UX Design",Raghavendra
+6486488,Full - Time,"Talent Management,Recruitment,Employee Engagement",Heena Bawa
+6506501,Full - Time,"Golang,Node.js,PHP",Paul Thomas
+6516512,Full - Time,"Node.js,JavaScript,AWS",Rana Bose
+6526521,Full - Time,"PySpark,Airflow,Python",Ruchi Batra
+6536532,Full - Time,"UX Design,InDesign,Illustrator",Ashraf Kazi
+6536534,Full - Time,"React.js,Node.js,Python",Vivek Purc
+6556551,Full - Time,"Python,Java,Data Structures",Raja Pamidi
+6566562,Full - Time,Project Management,Rajeswari K
+6586581,Full - Time,"CI - CD,Ansible,AWS",Batool Ali
+6606601,Full - Time,"Adobe Captivate,DITA,FrameMaker",Priyanka Poonia
+6626621,Full - Time,"SAP SD,SAP S4 HANA",Roshan Muniraj
+6646641,Full - Time,"Java,React.js,Agile",Surbhi Chahar
+6646643,Full - Time,"Node.js,React.js",Hashtag Infosystem
+6656652,Full - Time,"Java,Node.js,Spring",Manjari Rastogi
+6676671,Full - Time,"AWS,Networking,Firewalls",Pooja
+6696691,Full - Time,"KYC,Document Review,Telecalling",Anjan Bose
+6706702,Full - Time,"Node.js,JavaScript,React.js",Garima Joshi
+6716712,Full - Time,"CI - CD,Ansible,AWS",Rajeswari K
+6726722,Full - Time,"Azure,Angular,.NET",Anju Tyagi
+6746741,Full - Time,"Business Development,Corporate Sales,Sales",Aditi Pradhan
+6756752,Full - Time,React.js,Ganapathy D
+6756754,Full - Time,Product Management,Gaurav Gaur
+6756756,Full - Time,"React.js,JavaScript,Git",Aditi Pradhan
+6776771,Full - Time,".NET,Multithreading",Jagadish V
+6776773,Full - Time,".NET,ASP.NET,C#",Achin Das
+6796791,Full - Time,"Java,Kafka,Microservices",Rajni Mishra
+6816811,Full - Time,"Facebook Marketing,Social Media Marketing,Google Ads",Poorti Punj
+6826821,Full - Time,"Business Development,Direct Sales,Sales",Dilip Borah
+6826823,Full - Time,"Direct Sales,Sales",Pooja
+6846841,Full - Time,"Sales,Presales,Hardware",Praful Kulkarni
+6866861,Full - Time,"SQL,Windows",Rupa Bang
+6876872,Full - Time,"Unix,Linux,PL-SQL",Aditi Pradhan
+6896891,Full - Time,"Linux Device Drivers,BSP,Kernel Development",Janet Paul
+6906901,Full - Time,"CRM,Customer Interaction,Customer Relationship",Keertana Mahamkali
+6906903,Full - Time,".NET,C#",Anand Sl
+6906905,Full - Time,"Build Tools,CI - CD,Linux",Puja Gupta
+6916912,Full - Time,"Automation Testing,Manual Testing,Postman",Anil K
+6926922,Full - Time,"BrowserStack,Quality Assurance,SDET",Archana Sharma
+6936932,Full - Time,"Python,Machine Learning,NLP",Mukta Dewan
+6956951,Full - Time,"Node.js,,",Naveen Taalanki
+6976971,Full - Time,"Content Marketing,Content Writing,English Content",Jiby Thomas
+6996991,Full - Time,"Content Marketing,Content Writing,English Content",Jiby Thomas
+7007001,Full - Time,"C,C++,Embedded Systems",Rovena Dsouza
+7017011,Full - Time,"ASP.NET,.NET,API Testing",Lata Kohli
+7027022,Full - Time,"Microsoft Excel,Power BI,Python",Anjali
+7047041,Full - Time,"Kubernetes,AWS,CI - CD",Mansi Gupta
+7067061,Full - Time,"React.js,JavaScript,TypeScript",Chaithra G
+7067063,Full - Time,"React.js,Angular,JavaScript",Ayush Sinha
+7087081,Full - Time,"Machine Learning,Computer Vision,Statistics",Sneha Tope
+7107101,Full - Time,"Embedded C,AUTOSAR,C++",Atharv Ojha
+7117112,Full - Time,"Business Development,Corporate Sales,Sales",Jiby Thomas
+7137131,Full - Time,"Azure,AWS,RDBMS",Manish
+7147142,Full - Time,"PySpark,ETL,AWS",Naveen Taalanki
+7157151,Part - Time,Product Management,Pooja N
+7167161,Full - Time,"Linux,Red Hat,DevOps",Nitin Suri
+7177172,Full - Time,"Drilling,Quality Assurance",Surbhi Kumari
+7177174,Full - Time,MES,Prakash Balasubramanian
+7177176,Full - Time,Costing,Sahana Ps
+7187181,Full - Time,"QlikView,SQL,",Divya Pant
+7207201,Full - Time,"BFSI,Business Development,Strategic Planning",Kriti A
+7217212,Full - Time,"Kubernetes,Java,Spring Boot",Pooja N
+7217214,Full - Time,"Java,Data Structures,Spring Boot",Roshan Muniraj
+7217216,Full - Time,"Quality Assurance,API Testing,SDET",Omkar Sonawane
+7217218,Full - Time,"Java,NoSQL,Kubernetes",Nikita Sah
+72172110,Full - Time,"Kubernetes,CI - CD,AWS",Dhara Raval
+72172112,Full - Time,"Java,Google Cloud,AWS",Archana Sharma
+72172114,Full - Time,"Java,AWS,Spring Boot",Afreen Naz
+72172116,Full - Time,"Java,Kubernetes,Spring Boot",Thangaraj Vinayagmoorthy
+72172118,Full - Time,"Java,Selenium,API Testing",Dipesh Jain
+72172120,Full - Time,"DevOps,Linux,AWS",Ravikumar M
+72172122,Full - Time,"Linux,AWS,Kubernetes",Smitha Sajo
+72172124,Full - Time,"Automation Testing,Java,SDET",Ekta Kohli
+72172126,Full - Time,"Linux,AWS,Kubernetes",Ritika Jha
+72172128,Full - Time,"Automation Testing,API Testing,Quality Assurance",Tisha Prasad
+72172130,Full - Time,"SQL,Big Data",Varun Wadhwa
+72172132,Full - Time,"SDET,Automation Testing,API Testing",Jiby Thomas
+72172134,Full - Time,"DLP,Information Security,SIEM",Consult Bae
+72172136,Full - Time,"Corporate Sales,Sales",Priyal Gupta
+7227222,Full - Time,Android development,Harini M
+7247241,Full - Time,"Hybrid Apps,iOS,Flutter",Oyela Hr
+7257251,Full - Time,"React.js,Next.js,JavaScript",Karthik R
+7267262,Full - Time,"Data Analysis,Python,Machine Learning",Reena Bajaj
+7277272,Full - Time,"Manual Testing,Functional Testing,Postman",Shashikanth Jayaraman
+7287281,Full - Time,"Data Structures,Algorithms,Python",Chaithra G
+7297292,Full - Time,Anaplan,Aravind Chandrasekar
+7297294,Full - Time,"DevOps,Java",Rajeswari K
+7297296,Full - Time,"Angular,Java",Rohini G
+7297298,Full - Time,"Project Management,Agile",Manisha
+7307301,Full - Time,"DevOps,Terraform,Ansible",Consult Bae
+7307303,Full - Time,"Cloud Computing,BGP,WSDL",Kavya Shegde
+7317311,Full - Time,"Project Management,Java,Agile",Dhara Raval
+7327322,Full - Time,"React.js,Node.js,SQL",Balesh S
+7337332,Full - Time,"Java,Hibernate,Spring",Sneha Hegde
+7347341,Full - Time,"Java,Spring Boot,AWS",Afreen Naz
+7357351,Full - Time,"Java,React.js,SQL",Priyal Gupta
+7367362,Full - Time,"Python,AWS,Azure",Ajay Bhatia
+7377371,Full - Time,"Power BI,Azure,Business Intelligence",Liton Saha
+7397391,Full - Time,"Business Development,Field Work,Lead Generation",Gayathri NB HR Talent 
+7417411,Full - Time,"PySpark,Data Structures,SQL",Archana Sharma
+7417413,Full - Time,"Java,Spring Boot,Microservices",Atharv Ojha
+7427421,Full - Time,"Application Security,Cloud Security,Information Security",Ram R
+7447441,Full - Time,"Automation Testing,Performance Testing,SQL",Vijay Tiwari
+7457452,Full - Time,"Interior Design,Site Management,Site Engineering",Thangaraj Vinayagmoorthy
+7467461,Full - Time,"Angular,TypeScript,HTML",Cireesha Mailavarapu
+7477471,Full - Time,"AWS,Linux,Information Security",Mansi Gupta
+7487481,Full - Time,"Java,Angular,SQL",Abhinaya R
+7497492,Full - Time,"Product Management,Consumer Software",Mansi Gupta
+7497494,Full - Time,"Java,Spring Boot,Microservices",Rupali Bagaddeo
+7497496,Full - Time,"Data Structures,Hibernate,Java",Gugapriya O
+7497498,Full - Time,"Java,Data Structures,Algorithms",Madhu Kapu
+7507501,Full - Time,"Microsoft Excel,Power BI,R",Hank Mishra
+7517511,Full - Time,".NET,Angular,TypeScript",Tanishka Tanu Arora
+7517513,Full - Time,"Java,MongoDB,Docker",Swapnil Nautiyal
+7517515,Full - Time,"C#,.NET,AWS",Gopikrishnan Kg
+7517517,Full - Time,"PostgreSQL,REST Assured,Behavior Driven Development",Garima Maheshwari
+7537531,Full - Time,"Camel,Kafka,Java",Pooja N
+7547542,Full - Time,".NET,Angular",Savitha R
+7557551,Full - Time,"Embedded C++,Linux,Digital Signal Processing (DSP)",Consult Bae
+7567561,Full - Time,"Java,Spring",Kiran Lal
+7587581,Full - Time,"DevOps,Python",Saravanan Muralidharan
+7587583,Full - Time,Cloud Security,Srijani Majumdar
+7587585,Full - Time,"Control-M,Batch Processing",Madhavi G
+7597591,Full - Time,".NET,ASP.NET,C#",Ujjal Sarkar
+7617611,Full - Time,"Business Development,Direct Sales,Sales",Priyal Gupta
+7617613,Full - Time,"JavaScript,PHP,Ruby",Ankit Shah
+7627622,Full - Time,"Manual Testing,Agile,Mobile Apps Testing",Priyal Gupta
+7627624,Full - Time,"C++,Embedded C",Garima Maheshwari
+7647641,Full - Time,"Android,NFC,EMV",Sneha Priya
+7657652,Full - Time,"AWS,Angular,MySQL",Frida Dias
+7667661,Full - Time,"Golang,Java,Python",Jiby Thomas
+7687681,Full - Time,iOS,Sunny Walia
+7707701,Full - Time,"Business Development,Sales,Telecalling",Ravindra Rathod
+7717712,Full - Time,"Java,Spring Boot,Kafka",Rajni Mishra
+7717714,Full - Time,"React.js,Node.js,Vue.js",Rajeswari K
+7717716,Full - Time,"Java,Architecture,Microservices",Rajni Mishra
+7717718,Full - Time,"Java,Spring Boot,Architecture",Syed Quddus
+7737731,Full - Time,"CSS,HTML,JavaScript",Aru Uppal
+7757751,Full - Time,"Product Management,Product Lifecycle Management,Wireframing",Sanketh Ramkrishnamurthy
+7757753,Full - Time,"Angular,JavaScript,HTML",Mary Basu
+7757755,Full - Time,"Angular,CSS,HTML",Vikram Vijan
+7757757,Full - Time,"Angular,CSS,HTML",Vineet Singh
+7767761,Full - Time,"Digital Marketing,Facebook Marketing,Google Ads",Simran Shaikh
+7787781,Full - Time,"Node.js,TypeScript,Next.js",Akasmat Pradhan
+7787783,Full - Time,"Java,Flutter",Tapish Bhattkoti
+7797791,Part - Time,"Digital Marketing,Facebook Marketing,SEM",Akasmat Pradhan
+7817811,Full - Time,"Golang,Java,JavaScript",Anand E
+7827822,Full - Time,"Java,Machine Learning",Dhwani Parekh
+7837832,Full - Time,Product Management,Tanuj
+7847841,Full - Time,"Appium,Flutter",Sindhuja Parthasarathy
+7867861,Full - Time,"Java,Spring Boot,Microservices",Srinivas Talampuranam
+7877871,Full - Time,"Java,Python,Django",Keerthi M
+7877873,Full - Time,"React.js,HTML,CSS",Tapish Bhattkoti
+7877875,Full - Time,"Kubernetes,Docker,AWS",Tanu Saxena
+7897891,Full - Time,"Hubspot,PaaS,Product Marketing",Maximus J
+7917911,Full - Time,"Swift,API Testing,Kotlin",Ajay Tanwar
+7927922,Full - Time,"Automation Testing,Manual Testing,Mobile Apps Testing",Jiby Thomas
+7927924,Full - Time,"Java,Node.js,Python",Yukta Harit
+7937932,Full - Time,"Content Marketing,Digital Marketing,Facebook Marketing",Deep Patel
+7957951,Full - Time,"SQL,PySpark,Databricks",Pooja N
+7977971,Full - Time,"Python,Machine Learning,SQL",Vipin Sharma
+7997991,Full - Time,"Finance,MIS",Soni Anand
+8018011,Part - Time,"JavaScript,Customer Interaction,CSS",Yash Singh
+8028021,Full - Time,"Ansible,CI - CD,Docker",Divya Jaggi
+8048041,Full - Time,"Agile,Git,JavaScript",Somiya Garg
+8058051,Full - Time,"Python,SQL,Data Warehousing",Archana Sharma
+8078071,Full - Time,MuleSoft,Rajesh Babu
+8098091,Part - Time,"Content Marketing,Content Writing,English Content",Amit Ranjan
+8108101,Full - Time,"Marketing,Social Media Marketing,Public Relations",Viraaj Arora
+8118111,Full - Time,"JavaScript,Python,Django",Tanishka Tanu Arora
+8118113,Full - Time,MySQL,Anand K
+8138131,Full - Time,"UI Testing,Python,Automation Testing",Jiby Thomas
+8138133,Full - Time,"Node.js,JavaScript,Express.js",Kulvir Kaur
+8148141,Full - Time,"React.js,React Native,Flutter",Sapna Verma
+8168161,Full - Time,"Python,SQL,Data Modelling",Srikrishna
+8188181,Part - Time,"Customer Service,International BPO,",Rishabharaja S
+8198191,Full - Time,"VBA,Agile,ETL",Sagar Arondekar
+8208201,Full - Time,React Native,Nitya K
+8228221,Full - Time,"AWS,Azure,CI - CD",Roshni S
+8238231,Full - Time,"Automation Testing,SDET,Java",Rajeswari K
+8258251,Full - Time,"Java,Hibernate,J2EE",Jyoti Gouri
+8258253,Full - Time,"Java,Hibernate,J2EE",Suresh Nair
+8268262,Full - Time,"React.js,React Native,Flutter",Priyanka Mahindrakar
+8288281,Full - Time,"Java,Spring Boot,AWS",Divya Jethi
+8308301,Full - Time,Finance,Deepshikha Pachori
+8328321,Full - Time,"Customer Interaction,Customer Relationship,Customer Service",Tess Burlow
+8348341,Part - Time,"Manual Testing,Automation Testing,C#",Saravanan Thinagarasamy
+8368361,Full - Time,"Business Development,Sales,",Ashmita Kumari
+8378371,Full - Time,"IT Recruitment,Recruitment,Networking",Aditi Pradhan
+8388382,Full - Time,"Golang,Rust,Java",Parul Gala
+8408401,Full - Time,"Selenium,Automation Testing,Appium",Anil Moturi
+8418412,Full - Time,Teamcenter,Shah Shoaib
+8438431,Full - Time,"Node.js,React.js,Microservices",Arun Ravi
+8458451,Full - Time,"Credit Cards,Credit Risk Management,Fraud Management",Gopikrishnan Kg
+8478471,Full - Time,"Android,Hybrid Apps,iOS",Jyoti Gupta
+8498491,Full - Time,"DevOps,Kubernetes,CI - CD",Priyal Gupta
+8518511,Part - Time,"Compensation Management,Employee Engagement",Keshini Vc
+8518513,Part - Time,"Product Management,Consumer Software",Aditi Pradhan
+8528521,Full - Time,"Mobile Apps Testing,Functional Testing",Chirag Shah
+8538532,Full - Time,"DevOps,AWS,Kubernetes",Neha Sharma
+8558551,Full - Time,"Docker,Kubernetes,Python",Jiby Thomas
+8578571,Full - Time,"Business Development,Corporate Sales,Sales",Thangaraj Vinayagmoorthy
