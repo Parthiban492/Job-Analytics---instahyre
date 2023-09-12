@@ -33,15 +33,41 @@ In our project, we streamline data preprocessing using a dual approach involving
 Here we harness the power of Excel and SQL for comprehensive data analysis and utilize Power BI for insightful data visualization. Excel and SQL enable us to perform intricate data queries, aggregations, and calculations, ensuring in-depth analysis of job market trends and insights derived from Instahyre. Power BI then transforms our data into interactive and visually compelling dashboards and reports, making it easier for users to understand and interpret the analytics, ultimately empowering job seekers to make informed career decisions based on our findings.
 
 <img src=https://github.com/Parthiban492/Job-Analytics-instahyre/blob/main/Presentation/Dashboard.png height=400 width=1200>
+
+
+
+**Job Openings based on Company Strength**
+
+   <img src=https://github.com/Parthiban492/Job-Analytics-instahyre/blob/main/Presentation/Industry%20Wise%20Opening.png height=300 width=1000>
+
+
+
+**Job Openings based on Job Role**
+
+   <img src=https://github.com/Parthiban492/Job-Analytics-instahyre/blob/main/Presentation/Dept%20Job%20Opening.png height=300 width=1000>
+
+
+
+**Job Openings based on Experience**
+
+   <img src=https://github.com/Parthiban492/Job-Analytics-instahyre/blob/main/Presentation/Job%20Count%20on%20exp.png height=300 width=1000>
+   
 <be>
+
+
 
 ## <img src=https://user-images.githubusercontent.com/55955478/235934087-2658bab8-0815-43d1-b568-7cd023b3cc38.gif height=45 width=48> Findings:
 
 1. Top Job Titles: Identify the most in-demand job titles across India's job market, Where Software Development Engineer has the highest Job openings.
+
 2. Salary Trends: Gain insights into salary expectations for different job roles and industries, comparatively tech industry has high salary packages.
+
 3. Regional Hotspots: Discover regions with the highest job opportunities, and as the tech hub of India Bengaluru has the highest openings.
+
 4. Skill Requirements: Understanding the essential skills and qualifications employers are seeking, Python, Java, and SQL are the most required Skills.
+
 5. Industry Analysis: Analyze which industries are experiencing growth and which are declining, and Software are more promising sectors.
+
 6. Experience Levels: Determine the experience levels most in demand by employers, Since it was the period of recession at least 3 years experienced candidates have more Opportunities in the market.
 
 <be>
